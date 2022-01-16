@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KDONG1224/cat-jjal-maker-cra/static/css/main.2eab430d.css",
+    "main.js": "/KDONG1224/cat-jjal-maker-cra/static/js/main.29c8e0af.js",
+    "index.html": "/KDONG1224/cat-jjal-maker-cra/index.html",
+    "main.2eab430d.css.map": "/KDONG1224/cat-jjal-maker-cra/static/css/main.2eab430d.css.map",
+    "main.29c8e0af.js.map": "/KDONG1224/cat-jjal-maker-cra/static/js/main.29c8e0af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eab430d.css",
+    "static/js/main.29c8e0af.js"
+  ]
+}
